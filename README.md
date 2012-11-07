@@ -1,0 +1,4 @@
+goaway
+======
+
+Some go
