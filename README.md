@@ -1,4 +1,4 @@
 goaway
 ======
 
-Some go
+go[ssiping]
